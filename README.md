@@ -3,6 +3,7 @@
 ## About:
 
 React-typescript app. Originally a takehome-test, the app queries the Unsplash API and users can highlight and open an image via a modal.
+See the app in action: https://unsplash-hipeople.surge.sh/
 
 Time spent: roughly 3 hours.
 
