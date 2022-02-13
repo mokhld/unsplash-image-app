@@ -1,4 +1,5 @@
 # Unsplash Image Search App
+![app-image](https://user-images.githubusercontent.com/75549970/153767920-78a101b1-f8a1-4bc9-934b-45970b767892.png)
 
 ## About:
 
